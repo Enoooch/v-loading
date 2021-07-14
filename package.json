@@ -1,0 +1,14 @@
+{
+  "name": "v-loading",
+  "version": "1.0.0",
+  "description": "A simple loading directive for vue.js",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "vue",
+    "loading",
+    "directive"
+  ],
+  "author": "Enoch",
+  "license": "ISC"
+}
